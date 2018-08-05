@@ -7,7 +7,7 @@ namespace dottGRIP_Prodigy
     {
         static void Main()
         {
-            C.W("test");
+            C.W("Test");
             C.R();
         }
     }
