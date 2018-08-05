@@ -8,5 +8,9 @@ namespace Class_01
     {
       Console.WriteLine(arg1);
     }
+    public static void R()
+    {
+      Console.ReadLine();
+    }
   }
 }
