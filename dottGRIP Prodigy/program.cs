@@ -1,12 +1,14 @@
 using System;
+using Class_01;
 
 namespace dottGRIP_Prodigy
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello World!");
+            C.W("test");
+            C.R();
         }
     }
 }
