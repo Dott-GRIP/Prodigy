@@ -2,15 +2,15 @@ using System;
 
 namespace Class_01
 {
-  class C
-  {
+	class C
+	{
     public static void W(string arg1)
     {
-      Console.WriteLine(arg1);
+        Console.WriteLine(arg1);
     }
     public static void R()
     {
-      Console.ReadLine();
+        Console.ReadLine();
     }
-  }
+	}
 }
